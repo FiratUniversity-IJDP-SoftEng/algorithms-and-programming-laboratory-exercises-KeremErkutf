@@ -1,3 +1,5 @@
+# Your Student ID: 240543013
+# Your Name and Surname: Kerem Erkut Çiftlikçi
 def get_numbers():
     a = int(input("Enter first number: "))
     b = int(input("Enter second number: "))
